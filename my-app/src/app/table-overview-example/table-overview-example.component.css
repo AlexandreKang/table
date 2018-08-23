@@ -34,7 +34,7 @@ table {
   
   .example-element-diagram {
     min-width: 80px;
-    border: 2px solid black;
+    border: 2px solid white;
     padding: 8px;
     font-weight: lighter;
     margin: 8px 0;
@@ -53,4 +53,8 @@ table {
   
   .example-element-description-attribution {
     opacity: 0.5;
+  }
+
+  .container-card {
+    margin:40px;
   }
